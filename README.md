@@ -112,6 +112,10 @@ Splash
 
 ![Splash](https://user-images.githubusercontent.com/74663100/99624019-31ba2d80-2a4f-11eb-998d-e52e908cb1ad.jpg)
 
+Home
+
+![Home](https://user-images.githubusercontent.com/74663100/99624366-0126c380-2a50-11eb-9f05-59f391787772.jpg)
+
 ## **Changelog/Commit 05**
 
 *Coming Soon*
