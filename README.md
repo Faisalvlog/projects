@@ -106,6 +106,12 @@ And a lot more...
 
 2. Disabled Multiple Button Pressed After Answering
 
+
+Splash
+
+
+![Splash](https://user-images.githubusercontent.com/74663100/99624019-31ba2d80-2a4f-11eb-998d-e52e908cb1ad.jpg)
+
 ## **Changelog/Commit 05**
 
 *Coming Soon*
