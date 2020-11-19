@@ -15,3 +15,7 @@ Home Page
 
 ![one](https://user-images.githubusercontent.com/74663100/99623283-93799800-2a4d-11eb-839a-dfec9b19a41f.jpg)
 
+Result Page
+
+![two](https://user-images.githubusercontent.com/74663100/99623419-e4898c00-2a4d-11eb-9925-133a304f68c8.jpg)
+
