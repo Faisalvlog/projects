@@ -116,6 +116,14 @@ Home
 
 ![Home](https://user-images.githubusercontent.com/74663100/99624366-0126c380-2a50-11eb-9f05-59f391787772.jpg)
 
+Right
+
+![Right](https://user-images.githubusercontent.com/74663100/99624478-2ddadb00-2a50-11eb-9cc3-f4a97f6f3370.jpg)
+
+Wrong
+
+
+
 ## **Changelog/Commit 05**
 
 *Coming Soon*
